@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-AlphaNinjaReal/AlphaNinjaReal is a ✨ special ✨ repository because its `README.md` (https://ibb.co/tDCDgS0) appears on your GitHub profile.
+𝙆𝙄𝙉𝙂 𝘼𝙇𝙋𝙃𝘼/Alpha Ninja is a ✨ special ✨ repository because its `README.md` (https://ibb.co/tDCDgS0) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
