@@ -18,7 +18,7 @@
 
 ---
 > Deploy Your Bot On Heroku ✏
-<div align="left"><a href="https://github.com/AlphaNinjaReal/KING-ALPHA"><img src="https://github.com/ravindu01manoj/ravindu01manoj/blob/main/media/Heroku_logo.svg.png" width="150" ></a></div>
+<div align="left"><a href="https://dashboard.heroku.com/new?template=https://github.com/AlphaNinjaReal/KING-ALPHA"><img src="https://github.com/ravindu01manoj/ravindu01manoj/blob/main/media/Heroku_logo.svg.png" width="150" ></a></div>
 
 ***
 
