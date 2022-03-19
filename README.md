@@ -18,7 +18,7 @@
 
 ---
 > Deploy Your Bot On Heroku ✏
-<div align="left"><a href="https://github.com/ravindu01manoj/ravindu01manoj/blob/main/SEW.md"><img src="https://github.com/ravindu01manoj/ravindu01manoj/blob/main/media/Heroku_logo.svg.png" width="150" ></a></div>
+<div align="left"><a href="https://github.com/AlphaNinjaReal/KING-ALPHA"><img src="https://github.com/ravindu01manoj/ravindu01manoj/blob/main/media/Heroku_logo.svg.png" width="150" ></a></div>
 
 ***
 
@@ -32,7 +32,7 @@
 ***
 
 
-<table><tr><th>Alpha Ninja</th><th>Ravindu Manoj </th></tr><tr><td><a href="https://github.com/ravindu01manoj"><img src="https://telegra.ph/file/41ef71f65b0501457e83a.png" width="180" alt="Sew Queen"></a></td><td><a href="https://github.com/ravindu01manoj"><img src="https://github.com/ravindu01manoj/ravindu01manoj/blob/b5c48b989ad4df7239773217a3a4d58dc41fb494/media/temp_user_profile1621662133773.jpeg" width="180" alt="Ravindu Manoj"></a></td></tr><tr><td>Developer & Owner</td><td>Supports Preparation </td></tr></table><table><tr><th>
+<table><tr><th>Alpha Ninja</th><th>Ravindu Manoj </th></tr><tr><td><a href="https://github.com/ravindu01manoj"><img src="https://telegra.ph/file/41ef71f65b0501457e83a.png" width="180" alt="Sew Queen"></a></td><td><a href="https://github.com/ravindu01manoj"><img src="https://github.com/ravindu01manoj/ravindu01manoj/blob/b5c48b989ad4df7239773217a3a4d58dc41fb494/media/temp_user_profile1621662133773.jpeg" width="180" alt="Ravindu Manoj"></a></td></tr><tr><td>Developer & Owner</td><td>Support for all files and editing </td></tr></table><table><tr><th>
 
 
 ***
